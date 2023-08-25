@@ -99,7 +99,7 @@
         {
             "userAdded": false,
             "type": "UnityEngine.Texture",
-            "defaultInstantiationMode": 0
+            "defaultInstantiationMode": 1
         },
         {
             "userAdded": false,
