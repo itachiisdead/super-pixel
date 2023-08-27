@@ -6,8 +6,9 @@ Retro-style pixel art graphics
 Challenging levels and obstacles
 Power-ups and collectibles
 Smooth character controls and physics
-Installation
-To play Super Pixel, follow the steps below:
+
+To play Super Pixel:
+clone the repositry and open the super pixel exe file inside .
 
 Controls
 The default controls for Super Pixel are:
